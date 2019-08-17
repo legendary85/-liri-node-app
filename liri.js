@@ -63,17 +63,18 @@ function bandsInTown(bands) {
         var bandData = bands.data[i];
         var concertDate = moment(bandData.datetime).format("MM/DD/YYYY");
 
-        // fs.appendFile(
-        //   "log.txt",
-        //   `\nVenue Name: ${bandData.venue.name}\nLocation: ${
-        //     bandData.venue.city
-        //   }"," ${bandData.venue.region}\nCountry: ${
-        //     bandData.venue.country
-        //   }\nDate of show: ${concertDate}`,
-        //   function(err) {}
-        // );
+        fs.appendFile(
+          "log.txt",
+          `\n==========CONCERT INFORMATION==========\nVenue Name: ${
+            bandData.venue.name
+          }\nLocation: ${bandData.venue.city}, ${
+            bandData.venue.region
+          }\nCountry: ${
+            bandData.venue.country
+          }\nDate of show: ${concertDate}\n=======================================`,
+          function(err) {}
+        );
         console.log(bandData.venue.name);
-
         console.log(
           "Location: " +
             bandData.venue.city +
@@ -141,6 +142,20 @@ function spotSong(findSong) {
         var nameOfSong = musicQuery.name;
         var preview = musicQuery.preview_url;
         var albumTitle = musicQuery.album.name;
+
+        var musicInfo =
+          "======================================" +
+          "\nArtist: " +
+          artist +
+          "\nSong Name: " +
+          nameOfSong +
+          "\nLink to song: " +
+          preview +
+          "\nAlbum Title: " +
+          albumTitle +
+          "\n==============================================";
+
+        fs.appendFile("log.txt", `${musicInfo}`);
 
         console.log(
           "======================================" +
