@@ -144,7 +144,7 @@ function spotSong(findSong) {
         var albumTitle = musicQuery.album.name;
 
         var musicInfo =
-          "======================================" +
+          "\n==========REQUESTED MUSIC==========" +
           "\nArtist: " +
           artist +
           "\nSong Name: " +
@@ -153,9 +153,10 @@ function spotSong(findSong) {
           preview +
           "\nAlbum Title: " +
           albumTitle +
-          "\n==============================================";
+          "\n===================================";
 
-        fs.appendFile("log.txt", `${musicInfo}`);
+        // fs.appendFile("log.txt", `${musicInfo}`);
+        fs.appendFile("log.txt", `\n ${musicInfo}`, function(err) {});
 
         console.log(
           "======================================" +
