@@ -92,40 +92,12 @@ function bandsInTown(bands) {
     });
 }
 
-// NPM SIMPLE REQUEST METHOD
-
-// function bandsInTown (bands){
-//   var queryURL = "https://rest.bandsintown.com/artists/" + bands + "/events?app_id=4b9cf2955b460f24db1c3e790af65e49";
-
-//   request(queryURL, function (error, response, body){
-//     if(!error && response.statusCode === 200){
-//       var concerts = JSON.parse(body);
-
-//       for(var i = 0; i < concerts.length; i++){
-//         var dateOfEvent = moment(concerts[i].datetime).format("MM/DD/YYYY");
-
-//         console.log("Event # " + i);
-//         console.log("Name of Venue: " + concerts[i].venue.name);
-//         console.log("Venue Location: " + concerts[i].venue.city + ", " + concerts[i].venue.region + "\nCountry: " + concerts[i].venue.country);
-//         console.log("Date of Event: " + dateOfEvent);
-//         console.log("==========================================================");
-
-//       // var randomDate = "02/23/1999";
-//       // var randomFormat = "MM/DD/YYYY";
-//       // var convertedDate = moment(randomDate, randomFormat);
-//       // console.log(convertedDate.format("MM/DD/YYYY"));
-//     }
-//     } else{
-//       console.log('Error has occurred.');
-//     }
-// });
-// }
-
 //Function for Spotify
 // spotify-this-song
 function spotSong(findSong) {
   if (findSong === undefined || null) {
     findSong = "The Sign Ace of Base";
+    fs.appendFile("log.txt", `\n ${findSong}`, function(err) {});
     // console.log(spotSong);
   }
 
@@ -181,18 +153,27 @@ function spotSong(findSong) {
 function movieInfo(movieQuery) {
   if (movieQuery === undefined || null) {
     movieQuery = "Mr. Nobody";
-    console.log(movieQuery);
-    console.log(
-      "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/"
+    var defaultMovie = movieQuery;
+    var defaultMessage =
+      "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/";
+    var onNetflix = "It's on Netflix!";
+
+    fs.appendFile(
+      "log.txt",
+      `\nAre you bored? Checkout:\n ${defaultMovie}\n ${defaultMessage}\n ${onNetflix}`,
+      function(err) {}
     );
-    console.log("It's on Netflix!");
+
+    console.log(movieQuery);
+    console.log(defaultMessage);
+    console.log(onNetflix);
   }
   var queryURL =
     "http://www.omdbapi.com/?t=" +
     movieQuery +
     "&y=&plot=short&apikey=c77f65c7";
   // // var queryURL = "http://www.omdbapi.com/?i=tt3896198&apikey=c77f65c7";
-
+  //Simple NPM request method
   request(queryURL, function(error, response, body) {
     //if no error and response statuscode is ok
     if (!error && response.statusCode === 200) {
