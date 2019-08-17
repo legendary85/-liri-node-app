@@ -192,12 +192,33 @@ function movieInfo(movieQuery) {
     movieQuery +
     "&y=&plot=short&apikey=c77f65c7";
   // // var queryURL = "http://www.omdbapi.com/?i=tt3896198&apikey=c77f65c7";
-  console.log(queryURL);
 
   request(queryURL, function(error, response, body) {
     //if no error and response statuscode is ok
     if (!error && response.statusCode === 200) {
       var movie = JSON.parse(body);
+      var printMovieInfo =
+        "\n==========MOVIE INFO==========" +
+        "\nMovie Title: " +
+        movie.Title +
+        "\nReleased: " +
+        movie.Year +
+        "\nIMDB Rating: " +
+        movie.imdbRating +
+        "\nRotten Tomatoes Rating: " +
+        rottenTomatoesValue(movie) +
+        "\nCountry of Production: " +
+        movie.Country +
+        "\nLanguage: " +
+        movie.Language +
+        "\nPlot: " +
+        movie.Plot +
+        "\nActors: " +
+        movie.Actors +
+        "\n===========================================================";
+
+      fs.appendFile("log.txt", `\n ${printMovieInfo}`, function(err) {});
+
       console.log("Movie Title: " + movie.Title);
       console.log("Released: " + movie.Year);
       console.log("IMDB Rating: " + movie.imdbRating);
