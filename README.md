@@ -51,6 +51,9 @@ The node-spotify-api package is used in order to retrieve song information from 
 
 **Node Spotify API** package is used to request data from spotify using secret credentials.
 
+![spotify-this-song request](assets/images/spotify1.png)
+![spotify-this-song  terminal results](assets/images/spotify2.png)
+
 ## movie-this
 
 Allows users to enter movie name in order to render movie details.
@@ -74,6 +77,9 @@ If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/
 
 It's on Netflix!
 
+![movie-this request](assets/images/movie.png)
+![movie-this terminal results](assets/images/movie2.png)
+
 **Request** package is used to request data from OMDB API.
 
 ## do-what-it-says
@@ -83,6 +89,8 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
 
 **Enter this:** node liri.js do-what-it-says
+
+![do-what-it-says terminal results](assets/images/random2.png)
 
 ##Developer
 
