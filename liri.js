@@ -56,6 +56,13 @@ function bandsInTown(bands) {
     bands +
     "/events?app_id=4b9cf2955b460f24db1c3e790af65e49";
 
+  //Alterrnative URL. Above apikey exspires 3 months after 8/14/19
+  // var queryURL =
+  //   "https://rest.bandsintown.com/artists/" +
+  //   bands +
+  //   "/events?app_id=codingbootcamp";
+  //
+
   axios
     .get(queryURL)
     .then(function(bands) {
@@ -144,7 +151,7 @@ function spotSong(findSong) {
         );
       }
     }
-    // console.log(data);
+    //     // console.log(data);
   });
 }
 

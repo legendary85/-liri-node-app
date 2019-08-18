@@ -1,0 +1,410 @@
+
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: The Marshall Mathers LP
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: Curtain Call: The Hits
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: Curtain Call
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: Curtain Call
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: The Marshall Mathers LP
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Rockabye Baby!
+Song Name: The Way I Am
+Link to song: https://p.scdn.co/mp3-preview/5f5f6c539437ac42e7fc3526f853c695849d2b3e?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: Lullaby Renditions of Eminem
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: 40 Glocc
+Song Name: Came To Party
+Link to song: https://p.scdn.co/mp3-preview/3289a20219c627f7779b8f13e7ad4d4299cf86ec?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: I Am Legend
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: The Marshall Mathers LP
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: Curtain Call
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: Curtain Call: The Hits
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: Curtain Call
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Eminem
+Song Name: The Way I Am
+Link to song: null
+Album Title: The Marshall Mathers LP
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Rockabye Baby!
+Song Name: The Way I Am
+Link to song: https://p.scdn.co/mp3-preview/5f5f6c539437ac42e7fc3526f853c695849d2b3e?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: Lullaby Renditions of Eminem
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: 40 Glocc
+Song Name: Came To Party
+Link to song: https://p.scdn.co/mp3-preview/3289a20219c627f7779b8f13e7ad4d4299cf86ec?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: I Am Legend
+===================================
+ 
+==========MOVIE INFO==========
+Movie Title: Coming to America
+Released: 1988
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 67%
+Country of Production: USA
+Language: English
+Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.
+Actors: Paul Bates, Eddie Murphy, Garcelle Beauvais, Feather
+===========================================================
+==========CONCERT INFORMATION==========
+Venue Name: Moda Center
+Location: Portland, OR
+Country: United States
+Date of show: 08/20/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Tacoma Dome
+Location: Tacoma, WA
+Country: United States
+Date of show: 08/21/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Smoothie King Center
+Location: New Orleans, LA
+Country: United States
+Date of show: 08/28/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: VyStar Veterans Memorial Arena
+Location: Jacksonville, FL
+Country: United States
+Date of show: 08/30/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Amalie Arena
+Location: Tampa, FL
+Country: United States
+Date of show: 08/31/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: BB&T Center
+Location: Sunrise, FL
+Country: United States
+Date of show: 09/01/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Bridgestone Arena
+Location: Nashville, TN
+Country: United States
+Date of show: 09/04/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: PNC Arena
+Location: Raleigh, NC
+Country: United States
+Date of show: 09/06/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Spectrum Center
+Location: Charlotte, NC
+Country: United States
+Date of show: 09/07/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Hampton Coliseum
+Location: Hampton, VA
+Country: United States
+Date of show: 09/08/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: KeyBank Center
+Location: Buffalo, NY
+Country: United States
+Date of show: 09/10/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Times Union Center
+Location: Albany, NY
+Country: United States
+Date of show: 09/11/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Prudential Center
+Location: Newark, NJ
+Country: United States
+Date of show: 09/13/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Barclays Center
+Location: Brooklyn, NY
+Country: United States
+Date of show: 09/14/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Royal Farms Arena (formerly Baltimore Arena)
+Location: Baltimore, MD
+Country: United States
+Date of show: 09/15/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Wells Fargo Center
+Location: Philadelphia, PA
+Country: United States
+Date of show: 09/17/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: PPL Center
+Location: Allentown, PA
+Country: United States
+Date of show: 09/18/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: TD Garden
+Location: Boston, MA
+Country: United States
+Date of show: 09/20/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: XL Center
+Location: Hartford, CT
+Country: United States
+Date of show: 09/21/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Capital One Arena
+Location: Washington, DC
+Country: United States
+Date of show: 09/22/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: PPG Paints Arena
+Location: Pittsburgh, PA
+Country: United States
+Date of show: 09/24/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Nationwide Arena
+Location: Columbus, OH
+Country: United States
+Date of show: 09/25/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Chesapeake Energy Arena
+Location: Oklahoma City, OK
+Country: United States
+Date of show: 08/26/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Vivint Smart Home Arena
+Location: Salt Lake City, UT
+Country: United States
+Date of show: 08/23/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Pepsi Center
+Location: Denver, CO
+Country: United States
+Date of show: 08/24/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: United Center
+Location: Chicago, IL
+Country: United States
+Date of show: 09/26/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Bankers Life Fieldhouse
+Location: Indianapolis, IN
+Country: United States
+Date of show: 09/28/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Enterprise Center
+Location: St. Louis, MO
+Country: United States
+Date of show: 10/03/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Toyota Center
+Location: Houston, TX
+Country: United States
+Date of show: 10/06/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: AT&T Center
+Location: San Antonio, TX
+Country: United States
+Date of show: 10/08/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Talking Stick Resort Arena
+Location: Phoenix, AZ
+Country: United States
+Date of show: 10/10/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Staples Center
+Location: Los Angeles, CA
+Country: United States
+Date of show: 10/11/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Golden 1 Center
+Location: Sacramento, CA
+Country: United States
+Date of show: 10/12/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: American Airlines Center
+Location: Dallas, TX
+Country: United States
+Date of show: 10/05/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: State Farm Arena
+Location: Atlanta, GA
+Country: United States
+Date of show: 10/02/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Oracle Arena
+Location: Oakland, CA
+Country: United States
+Date of show: 10/15/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Little Caesars Arena
+Location: Detroit, MI
+Country: United States
+Date of show: 09/30/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Save Mart Center
+Location: Fresno, CA
+Country: United States
+Date of show: 10/17/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Honda Center
+Location: Anaheim, CA
+Country: United States
+Date of show: 10/19/2019
+=======================================
+==========CONCERT INFORMATION==========
+Venue Name: Viejas Arena at Aztec Bowl San Diego State University
+Location: San Diego, CA
+Country: United States
+Date of show: 10/18/2019
+=======================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator - Single Version
+Link to song: https://p.scdn.co/mp3-preview/c1b878562f2c75ae57a5fcad7264fa636d8432a8?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: The Best Of Sade
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator - Remastered
+Link to song: https://p.scdn.co/mp3-preview/a780cd25a993406e4f2538fbb7ca891392e7f748?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: The Ultimate Collection
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator - Single Version
+Link to song: https://p.scdn.co/mp3-preview/5a4c58aae56aae244860205cf633314af78c1aa7?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator - Remastered
+Link to song: https://p.scdn.co/mp3-preview/3a28a3e74abaa06c16d51ee2167c3bfda2ba697e?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: Românticas Anos 80
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator - Live
+Link to song: https://p.scdn.co/mp3-preview/614733822cf4420b2d449acac91e307f91a79801?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: Lovers Live
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator
+Link to song: https://p.scdn.co/mp3-preview/2c49719df25ec0d282f513e3b6bd8fca8da1d7a0?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: Diamond Life
+===================================
+ 
+==========REQUESTED MUSIC==========
+Artist: Sade
+Song Name: Smooth Operator - Single Version
+Link to song: https://p.scdn.co/mp3-preview/5a4c58aae56aae244860205cf633314af78c1aa7?cid=4cffe83ec8d24cbca5f2f66258a9a99e
+Album Title: 80 Totally 80s Hits
+===================================
+ 
+==========MOVIE INFO==========
+Movie Title: Coming to America
+Released: 1988
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 67%
+Country of Production: USA
+Language: English
+Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.
+Actors: Paul Bates, Eddie Murphy, Garcelle Beauvais, Feather
+===========================================================
