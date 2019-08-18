@@ -77,7 +77,7 @@ If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/
 
 It's on Netflix!
 
-![movie-this request](assets/images/movie.png)
+![movie-this request](assets/images/movie1.png)
 ![movie-this terminal results](assets/images/movie2.png)
 
 **Request** package is used to request data from OMDB API.
