@@ -30,6 +30,7 @@ Allows users to the Bands in Town Artist Events API for an artist and render the
 example: liri.js concert-this "Wiz Khalifa"
 
 **axios** npm package is used to request data from **bandsintown** api.
+![Screenshot of the application](assets/)
 
 ## spotify-this-song
 
